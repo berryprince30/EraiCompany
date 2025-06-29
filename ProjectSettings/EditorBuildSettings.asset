@@ -8,6 +8,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/0StartScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/1landing&Race.unity
+    guid: 9936d6fcea8d77c45afc0c90da9d36a7
+  - enabled: 1
+    path: Assets/Scenes/2mineral.unity
+    guid: fe5f33e480dba05449e945f0bf5c2c31
+  - enabled: 1
+    path: Assets/Scenes/3battle.unity
+    guid: 8b6d9431bc250b9419af0583164459ea
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
