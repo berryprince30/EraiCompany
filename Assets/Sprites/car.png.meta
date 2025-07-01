@@ -131,10 +131,10 @@ TextureImporter:
       name: car_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 35
-        width: 22
-        height: 29
+        x: 0
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: car_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 0
-        width: 22
-        height: 64
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: car_2
       rect:
         serializedVersion: 2
-        x: 69
-        y: 35
-        width: 22
-        height: 29
+        x: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: car_3
       rect:
         serializedVersion: 2
-        x: 101
-        y: 0
-        width: 22
-        height: 64
+        x: 96
+        y: 32
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: car_4
       rect:
         serializedVersion: 2
-        x: 5
-        y: 3
-        width: 22
-        height: 30
+        x: 0
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: car_5
       rect:
         serializedVersion: 2
-        x: 69
-        y: 3
-        width: 22
-        height: 30
+        x: 32
+        y: 0
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -259,11 +259,55 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: car_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c1aee4a24404748b6565c93145a3b4
+      internalID: -1407709743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: car_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f49fe6b4cc7e549a9f2c1ffeb58c34
+      internalID: -426738684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: e7944239bbb864f4eab7a83e6641a5d9
     internalID: 0
     vertices: []
     indices: 
@@ -279,6 +323,8 @@ TextureImporter:
       car_3: 5390159895719797930
       car_4: 7200212785383552425
       car_5: 1379436920523193030
+      car_6: -1407709743
+      car_7: -426738684
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

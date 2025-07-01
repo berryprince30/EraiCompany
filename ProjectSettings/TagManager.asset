@@ -9,6 +9,8 @@ TagManager:
   - bullet
   - box
   - banana
+  - minion
+  - bean
   layers:
   - Default
   - TransparentFX
